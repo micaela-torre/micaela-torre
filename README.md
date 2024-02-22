@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hola👋, soy Mica</h1>
-<h3 align="center">Desarrolladora Full Stack Mern</h3>
+<h1 align="center">Bienvenidos👋, soy Mica</h1>
+<h3 align="center">Desarrolladora Full Front</h3>
 
 
 - ⚡ Fan del desarrollo en equipo 🙌
